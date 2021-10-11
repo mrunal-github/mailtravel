@@ -1,0 +1,318 @@
+2021-10-08 00:10:858 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-08 00:10:740 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c5e0502e7c2ba080c436954107b8f891)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-08 00:10:471 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-08 00:10:232 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (0206cbbd60a64f9867b0678b87042bae)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-08 15:10:555 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-08 15:10:90 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (1ecc52275ab713319b036e5d6235f6a1)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-08 15:10:927 INFO  HomePage :24 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (1ecc52275ab713319b036e5d6235f6a1)] -> css selector: button[disabled='disabled']]
+2021-10-08 15:10:895 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-08 15:10:396 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c6fb7c0c1103e27dc30128387cf6505f)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:910 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:13 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (1549e91b685ab6f8e4f29ec579ff858b)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:375 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:386 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (e9c47d08349c11c12a43e5290ff707d3)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:907 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:718 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (8b127a72a46bfdd30e353599e351fa3c)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:154 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:893 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (96e386aff3e48acbd1b5fb57ae71d60b)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:629 INFO  HomePage :24 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (96e386aff3e48acbd1b5fb57ae71d60b)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-09 23:10:671 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-09 23:10:400 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:642 INFO  HomePage :20 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (a3d540159fe00915273857948249db7c)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:451 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:484 INFO  HomePage :22 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (eab05abebb31b9bf8e805699aa890e48)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:617 INFO  HomePage :30 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (eab05abebb31b9bf8e805699aa890e48)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-09 23:10:504 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:739 INFO  HomePage :22 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (bd548083698d2f7852b2ea4d53883f80)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:887 INFO  HomePage :30 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (bd548083698d2f7852b2ea4d53883f80)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-09 23:10:255 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-09 23:10:251 INFO  HomePage :22 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (fee07d264a2874836295923de69af40b)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-09 23:10:400 INFO  HomePage :30 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (fee07d264a2874836295923de69af40b)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-09 23:10:794 INFO  HomePage :26 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (fee07d264a2874836295923de69af40b)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-09 23:10:985 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 00:10:198 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 00:10:487 INFO  HomePage :22 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (eb1d23060f0235113640a03916c441e3)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 00:10:607 INFO  HomePage :30 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (eb1d23060f0235113640a03916c441e3)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 00:10:598 INFO  HomePage :26 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (eb1d23060f0235113640a03916c441e3)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 00:10:714 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 00:10:738 INFO  BookingPage :30 - Getting Days and Prices[[ChromeDriver: chrome on WINDOWS (eb1d23060f0235113640a03916c441e3)] -> xpath: //div[@id = 'price-pin_pin-container']]
+2021-10-10 00:10:491 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 00:10:701 INFO  HomePage :22 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (4c4b218d276d911b5e9a687e20179b33)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 00:10:832 INFO  HomePage :30 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (4c4b218d276d911b5e9a687e20179b33)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 00:10:868 INFO  HomePage :26 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (4c4b218d276d911b5e9a687e20179b33)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 00:10:282 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 00:10:306 INFO  BookingPage :30 - Getting Days and Prices[[ChromeDriver: chrome on WINDOWS (4c4b218d276d911b5e9a687e20179b33)] -> xpath: //div[@id = 'price-pin_pin-container']]
+2021-10-10 15:10:201 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:87 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:426 INFO  HomePage :25 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (5a7675cb546ae10679459c1628178933)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:562 INFO  HomePage :37 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (5a7675cb546ae10679459c1628178933)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:683 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:451 INFO  HomePage :25 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c3a4ab1f3d30095a7fbf3c8f37eac538)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:592 INFO  HomePage :37 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (c3a4ab1f3d30095a7fbf3c8f37eac538)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:904 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:883 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (da06e5bfe860844bdfc1c643547cb6fc)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:33 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (da06e5bfe860844bdfc1c643547cb6fc)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:158 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:790 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (35427ca183b56ce341e2244976766276)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:943 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (35427ca183b56ce341e2244976766276)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:55 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (35427ca183b56ce341e2244976766276)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 15:10:153 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 15:10:203 INFO  BookingPage :30 - Getting Days and PricesProxy element for: DefaultElementLocator 'By.xpath: //div[@id = 'price-pin_pin-container']'
+2021-10-10 15:10:796 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:664 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c0f8967238134bccf2fd2e81f18d9076)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:947 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:819 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (9f291a1e5a2e895ebbdfc038803490db)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:959 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (9f291a1e5a2e895ebbdfc038803490db)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:389 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (9f291a1e5a2e895ebbdfc038803490db)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 15:10:867 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 15:10:891 INFO  BookingPage :30 - Getting Days and Prices[[ChromeDriver: chrome on WINDOWS (9f291a1e5a2e895ebbdfc038803490db)] -> xpath: //div[@id='price-pin_pin-wrapper']]
+2021-10-10 15:10:503 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:93 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (4b83df298a3b37b608031c45e1315618)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:253 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (4b83df298a3b37b608031c45e1315618)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:141 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (4b83df298a3b37b608031c45e1315618)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 15:10:273 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 15:10:305 INFO  BookingPage :30 - Getting Days and Prices[[ChromeDriver: chrome on WINDOWS (4b83df298a3b37b608031c45e1315618)] -> xpath: //div[@id='price-pin_pin-wrapper']]
+2021-10-10 15:10:854 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 15:10:602 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (4c75ea991ea2c51eaa69a75638364561)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 15:10:739 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (4c75ea991ea2c51eaa69a75638364561)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 15:10:147 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (4c75ea991ea2c51eaa69a75638364561)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 15:10:777 INFO  BookingPage :27 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 15:10:801 INFO  BookingPage :30 - Getting Days and Prices[[ChromeDriver: chrome on WINDOWS (4c75ea991ea2c51eaa69a75638364561)] -> xpath: //div[@id='price-pin_pin-wrapper']]
+2021-10-10 20:10:50 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 20:10:405 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (2fcd856c00c12aa7dc897c40cb304018)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 20:10:558 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (2fcd856c00c12aa7dc897c40cb304018)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 20:10:723 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (2fcd856c00c12aa7dc897c40cb304018)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 20:10:129 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 20:10:888 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 20:10:933 INFO  BookingDetails :56 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (2fcd856c00c12aa7dc897c40cb304018)] -> xpath: //div[text() = '18']]
+2021-10-10 20:10:979 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 20:10:320 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c324bb058032ece1d9fcaf35f72562ee)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 20:10:520 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (c324bb058032ece1d9fcaf35f72562ee)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 20:10:111 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (c324bb058032ece1d9fcaf35f72562ee)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 20:10:241 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 20:10:842 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 20:10:913 INFO  BookingDetails :59 - Verify its booking first available dateProxy element for: DefaultElementLocator 'By.xpath: (//div[contains(text(),'18')]'
+2021-10-10 21:10:869 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 21:10:497 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 21:10:654 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 21:10:81 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 21:10:58 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 21:10:906 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 21:10:955 INFO  BookingDetails :59 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 21:10:24 INFO  BookingDetails :63 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 21:10:232 INFO  BookingDetails :68 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 21:10:252 INFO  BookingDetails :71 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 21:10:746 INFO  BookingDetails :75 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 21:10:727 INFO  BookingDetails :79 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 21:10:922 INFO  BookingDetails :83 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 21:10:936 INFO  BookingDetails :84 - Entering lastName[[ChromeDriver: chrome on WINDOWS (4ef6313a7726f9211a77ffa7a3a97c32)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 21:10:20 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 21:10:357 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 21:10:516 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 21:10:639 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 21:10:73 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 21:10:778 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 21:10:827 INFO  BookingDetails :59 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 21:10:894 INFO  BookingDetails :63 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 21:10:32 INFO  BookingDetails :68 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 21:10:53 INFO  BookingDetails :71 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 21:10:501 INFO  BookingDetails :75 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 21:10:97 INFO  BookingDetails :80 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 21:10:271 INFO  BookingDetails :84 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 21:10:286 INFO  BookingDetails :85 - Entering lastName[[ChromeDriver: chrome on WINDOWS (352e8079a648ab9833b4084bc60907e8)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 21:10:440 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 21:10:152 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 21:10:357 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 21:10:589 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 21:10:21 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 21:10:708 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 21:10:767 INFO  BookingDetails :59 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 21:10:837 INFO  BookingDetails :63 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 21:10:900 INFO  BookingDetails :68 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 21:10:920 INFO  BookingDetails :71 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 21:10:389 INFO  BookingDetails :75 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 21:10:982 INFO  BookingDetails :80 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 21:10:174 INFO  BookingDetails :84 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 21:10:189 INFO  BookingDetails :85 - Entering lastName[[ChromeDriver: chrome on WINDOWS (2af1f904f845766506534e207e271afb)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 21:10:466 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 21:10:429 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 21:10:574 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 21:10:623 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 21:10:925 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 21:10:664 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 21:10:724 INFO  BookingDetails :59 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 21:10:791 INFO  BookingDetails :63 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 21:10:29 INFO  BookingDetails :68 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 21:10:48 INFO  BookingDetails :71 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 21:10:593 INFO  BookingDetails :75 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 21:10:195 INFO  BookingDetails :80 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 21:10:369 INFO  BookingDetails :84 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 21:10:384 INFO  BookingDetails :85 - Entering lastName[[ChromeDriver: chrome on WINDOWS (88354e34fc899fc6b25495ebf4b9c8be)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:966 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:733 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:895 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:898 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:13 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:881 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:937 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:15 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:261 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:297 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:775 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:366 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:559 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:576 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:359 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:518 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:546 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (6b5fb9e7ee862b4e9c4d5c39c9df7626)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:714 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:980 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:166 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:775 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:830 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:362 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:403 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:470 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:657 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:677 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:205 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:718 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:890 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:905 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:657 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:844 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:862 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (80755a4f09a195b10a90e259a09d7b7a)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:588 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:964 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:114 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:800 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:946 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:439 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:498 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:570 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:718 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:754 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:232 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:809 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:01 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:18 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:758 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:928 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:944 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (8b10e0d5f3cd58c34af359114e7982c3)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:971 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:254 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:408 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:503 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:595 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:223 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:269 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:339 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:431 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:452 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:995 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:540 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:738 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:753 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:530 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:696 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:717 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (6f05c51481b3dbccc6052a2e4e26b5b7)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:881 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:974 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:122 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:385 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:319 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:314 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:363 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:413 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:942 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:977 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:471 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:61 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:232 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:247 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:993 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:177 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:192 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (1884cf0ff33779a28bdc9db101433554)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:32 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:347 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:506 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:680 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:295 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:148 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:194 INFO  BookingDetails :73 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:248 INFO  BookingDetails :77 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:682 INFO  BookingDetails :82 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:715 INFO  BookingDetails :85 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:311 INFO  BookingDetails :89 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:847 INFO  BookingDetails :94 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:55 INFO  BookingDetails :98 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:70 INFO  BookingDetails :99 - Entering lastName[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:793 INFO  BookingDetails :110 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:949 INFO  BookingDetails :114 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:966 INFO  BookingDetails :115 - Entering lastName[[ChromeDriver: chrome on WINDOWS (4e89bcf54003ef72ceb5433a734319c5)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:736 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:157 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:305 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:953 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:10 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:975 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:29 INFO  BookingDetails :71 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:101 INFO  BookingDetails :75 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:318 INFO  BookingDetails :80 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:338 INFO  BookingDetails :83 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:863 INFO  BookingDetails :87 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:474 INFO  BookingDetails :92 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:668 INFO  BookingDetails :96 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:683 INFO  BookingDetails :97 - Entering lastName[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:431 INFO  BookingDetails :108 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:619 INFO  BookingDetails :112 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:637 INFO  BookingDetails :113 - Entering lastName[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:306 INFO  BookingDetails :123 - Verifying Payment Amount[[ChromeDriver: chrome on WINDOWS (c9f0af415a5d11bde07048b2ae29437a)] -> xpath: //span[text() = '£9,396']]
+2021-10-10 22:10:754 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-10 22:10:432 INFO  HomePage :24 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-10 22:10:588 INFO  HomePage :35 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-10 22:10:736 INFO  HomePage :31 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //button[@disabled='disabled']//div[@class='nbf_button'][contains(text(),'Search for your dream holiday or enter a holiday c')]]
+2021-10-10 22:10:542 INFO  BookingPage :34 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-10 22:10:607 INFO  BookingPage :45 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-10 22:10:653 INFO  BookingDetails :71 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //div[normalize-space()='18']]
+2021-10-10 22:10:724 INFO  BookingDetails :75 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-10 22:10:795 INFO  BookingDetails :80 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-10 22:10:815 INFO  BookingDetails :83 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-10 22:10:345 INFO  BookingDetails :87 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //div[@id ='extrasButton']]
+2021-10-10 22:10:864 INFO  BookingDetails :92 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-10 22:10:57 INFO  BookingDetails :96 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-10 22:10:73 INFO  BookingDetails :97 - Entering lastName[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-10 22:10:853 INFO  BookingDetails :108 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-10 22:10:13 INFO  BookingDetails :112 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-10 22:10:41 INFO  BookingDetails :113 - Entering lastName[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-10 22:10:681 INFO  BookingDetails :123 - Verifying Payment Amount[[ChromeDriver: chrome on WINDOWS (23cad77c01e1cfa5236daaeb6cc1c20b)] -> xpath: //span[text() = '£9,396']]
+2021-10-11 11:10:495 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-11 11:10:180 INFO  HomePage :30 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-11 11:10:389 INFO  HomePage :39 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-11 11:10:99 INFO  HomePage :35 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //div[@id='freetext_search_form']/child::form/child::button[@class='nbf_button nbf_tpl_quicksearch_button']]
+2021-10-11 11:10:391 INFO  BookingPage :42 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-11 11:10:216 INFO  BookingPage :53 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-11 11:10:251 INFO  BookingDetails :79 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //div[normalize-space()='18']]
+2021-10-11 11:10:326 INFO  BookingDetails :83 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-11 11:10:711 INFO  BookingDetails :88 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-11 11:10:750 INFO  BookingDetails :91 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-11 11:10:276 INFO  BookingDetails :95 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //div[@id ='extrasButton']]
+2021-10-11 11:10:904 INFO  BookingDetails :100 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (570815f72e9741479ef6cbc436676d7f)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-11 11:10:693 INFO  BasePage :33 - Launching Chrome Browser 
+2021-10-11 11:10:47 INFO  HomePage :30 - Sending text in Search Box[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //input[@id = 'searchtext_freetext_search_form']]
+2021-10-11 11:10:212 INFO  HomePage :39 - Clicking on Accept Cookies[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //button[@class = 'optanon-allow-all accept-cookies-button']]
+2021-10-11 11:10:49 INFO  HomePage :35 - Clicking on Search Button[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //div[@id='freetext_search_form']/child::form/child::button[@class='nbf_button nbf_tpl_quicksearch_button']]
+2021-10-11 11:10:958 INFO  BookingPage :42 - CLicking on more info buttonProxy element for: DefaultElementLocator 'By.xpath: //button[@id ='iterator_1_product_custom_more-info-button']'
+2021-10-11 11:10:237 INFO  BookingPage :53 - Clicking on Book Online ButtonProxy element for: DefaultElementLocator 'By.xpath: //button[@name='enterbookingflow']//div[contains(@class,'nbf_fancyimg_pms_add_button nbf_fg_pms_button_text nbf_bg_pms_button nbf_fg_pms_button_text')][normalize-space()='Book Online']'
+2021-10-11 11:10:276 INFO  BookingDetails :79 - Verify its booking first available date[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //div[normalize-space()='18']]
+2021-10-11 11:10:333 INFO  BookingDetails :83 - Clicking on Continue Button[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //div[@class = 'nbf_button nbf_tpl_pms_button']]
+2021-10-11 11:10:724 INFO  BookingDetails :88 - Selecting room from dropdown[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //select[@id = 'room-0-numselect']]
+2021-10-11 11:10:759 INFO  BookingDetails :91 - Selecting room and continue[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //div[@class = 'nbf_fancy_nbf_tpl_pms_book_room nbf_fg_pms_button_text ']]
+2021-10-11 11:10:281 INFO  BookingDetails :95 - Continue to the next stage[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //div[@id ='extrasButton']]
+2021-10-11 11:10:971 INFO  BookingDetails :100 - Selecting title for Adult One[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //select[@id = 'pax-a-title-1']]
+2021-10-11 11:10:223 INFO  BookingDetails :104 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //input[@id = 'pax-a-first-1']]
+2021-10-11 11:10:263 INFO  BookingDetails :105 - Entering lastName[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //input[@id = 'pax-a-last-1']]
+2021-10-11 11:10:88 INFO  BookingDetails :116 - Selecting title for Adult Two[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //select[@id = 'pax-a-title-2']]
+2021-10-11 11:10:274 INFO  BookingDetails :120 - Entering FirstName[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //input[@id = 'pax-a-first-2']]
+2021-10-11 11:10:295 INFO  BookingDetails :121 - Entering lastName[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //input[@id = 'pax-a-last-2']]
+2021-10-11 11:10:11 INFO  BookingDetails :131 - Verifying Payment Amount[[ChromeDriver: chrome on WINDOWS (44434f0b886382eb46f3d6a59de8a1c9)] -> xpath: //span[text() = '£9,396']]
